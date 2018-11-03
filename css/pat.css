@@ -8,10 +8,48 @@ i.action{
     color: #404040;
 }
 
+#video-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.87);
+    z-index: 10;
+    display: none;
+}
+#video-container i{
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    color: white;
+    font-size: 200%;
+    z-index: 10;
+}
+#video-container video{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.toggle-video{
+    cursor: pointer;
+}
+
 .home-content {
     padding-bottom: 26rem !important;
 }
 
-.s-clients{
+.target-section{
+    padding-top: 18rem;
+    padding-bottom: 18rem;
+    position: relative;
+}
+.step-even{
+    background-color: #2a2a2a;
     color: #e5e5e5;
+}
+.step-odd{
+    background-color: #f6f6f6;
+    color: #595959;
 }

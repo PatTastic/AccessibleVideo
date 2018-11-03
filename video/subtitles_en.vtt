@@ -1,0 +1,187 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:03.000
+In this video, you will learn
+how to put your
+
+2
+00:00:03.100 --> 00:00:07.000
+personal portfolio website
+on GitHub.
+
+3
+00:00:07.500 --> 00:00:09.000
+Once you've signed into GitHub,
+
+4
+00:00:09.500 --> 00:00:12.000
+click Start a project.
+
+5
+00:00:12.500 --> 00:00:14.000
+Enter the repository name
+
+6
+00:00:14.500 --> 00:00:17.000
+making sure it starts with
+your exact username,
+
+7
+00:00:17.500 --> 00:00:20.000
+then dot GitHub dot io.
+
+8
+00:00:20.500 --> 00:00:22.000
+Enter any description,
+
+9
+00:00:22.500 --> 00:00:26.000
+I'm just going to put "My Portfolio"
+- keep it simple.
+
+10
+00:00:27.000 --> 00:00:30.000
+No need to hit anything else -
+and create new repository.
+
+11
+00:00:31.000 --> 00:00:33.000
+And [magical appearance sound effect],
+there it is.
+
+12
+00:00:34.000 --> 00:00:40.000
+Now to get that into your local machine,
+click Set up in Desktop, then confirm,
+
+13
+00:00:40.500 --> 00:00:46.000
+then choose a local path to save it,
+I'm just going to put it on my desktop.
+
+14
+00:00:46.500 --> 00:00:50.000
+Name the folder whatever you want.
+Select that folder,
+
+15
+00:00:51.000 --> 00:00:53.000
+and then hit Clone.
+
+16
+00:00:55.000 --> 00:00:58.000
+[Speaking while distracted]
+And now it's in your local.
+
+17
+00:00:59.000 --> 00:01:02.000
+Then navigate to that folder.
+
+18
+00:01:02.500 --> 00:01:06.000
+To make sure that it is the GIT folder,
+
+19
+00:01:06.500 --> 00:01:11.000
+Go to View, check Hidden Items, see the
+dot git folder there,
+
+20
+00:01:11.500 --> 00:01:13.000
+[Enthusiastically]
+so you're good.
+
+21
+00:01:14.500 --> 00:01:18.000
+I'm just going to download a template
+to get this going faster.
+
+22
+00:01:19.000 --> 00:01:25.000
+This one looks stylish - going to
+download that one
+
+23
+00:01:29.000 --> 00:01:34.000
+Going to throw it the repository
+folder.
+
+24
+00:01:41.000 --> 00:01:46.000
+And then extract it once it finishes
+downloading.
+
+25
+00:01:47.000 --> 00:01:50.000
+And make sure to extract it in
+the root folder.
+
+26
+00:01:53.500 --> 00:01:59.500
+And there it is. Now I'm just going to edit
+the index a bit - personalize it up.
+
+27
+00:02:00.000 --> 00:02:06.000
+Change the title to my name
+dash portfolio.
+
+28
+00:02:08.000 --> 00:02:13.000
+And then a bit more personalization
+right here.
+
+29
+00:02:17.000 --> 00:02:20.000
+[Impatiently]
+Ok, good enough! Save that.
+
+30
+00:02:21.000 --> 00:02:28.500
+Back to GitHub - on the left we see all the files
+that will be added, all the ones downloaded from the template
+
+31
+00:02:29.000 --> 00:02:32.000
+The title, just "Initial Commit" is good enough.
+
+32
+00:02:33.000 --> 00:02:36.000
+Commit that to Master, it'll do its thing.
+
+33
+00:02:38.000 --> 00:02:45.000
+Once it's done committing we have to push,
+so hit that Publish button to put it on GitHub.
+
+34
+00:02:52.500 --> 00:02:57.000
+Now go back to GitHub, confirm that it is there.
+
+35
+00:02:59.000 --> 00:03:04.000
+[Robotic]
+Give the page a reload and hooray it is there.
+
+36
+00:03:07.000 --> 00:03:13.500
+Now to make sure that it is in fact published,
+scroll down a bit to GitHub Pages
+
+37
+00:03:14.000 --> 00:03:15.500
+and mine is published automatically.
+
+38
+00:03:16.000 --> 00:03:18.000
+Just hit that link and there's the site.
+
+39
+00:03:19.000 --> 00:03:25.000
+And you see the bit of personalization up there.
+So it all worked.
+
+40
+00:03:26.000 --> 00:03:30.000
+And there it is - a portfolio website on GitHub.
